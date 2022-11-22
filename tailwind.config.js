@@ -1,4 +1,4 @@
-// MayanWolfe VOD on 11/20/2022 at 3:00 pm: Intro to TailwindCSS! #100Devs 2:44
+// MayanWolfe VOD on 11/20/2022 at 3:00 pm: Intro to TailwindCSS! #100Devs
 
 const defaultTheme = require('tailwindcss/defaultTheme')
 
