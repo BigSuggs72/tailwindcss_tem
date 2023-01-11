@@ -570,6 +570,10 @@ body::before{
   margin-top: 2rem;
 }
 
+.mb-9 {
+  margin-bottom: 2.25rem;
+}
+
 .flex {
   display: flex;
 }
@@ -817,6 +821,11 @@ body::before{
   color: rgb(15 23 42 / var(--tw-text-opacity));
 }
 
+.text-gray-700 {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+
 .caret-primary-color {
   caret-color: #0fa;
 }
@@ -837,6 +846,16 @@ body::before{
 .hover\:text-primary-color:hover {
   --tw-text-opacity: 1;
   color: rgb(0 255 170 / var(--tw-text-opacity));
+}
+
+.hover\:text-gray-100:hover {
+  --tw-text-opacity: 1;
+  color: rgb(243 244 246 / var(--tw-text-opacity));
+}
+
+.hover\:text-gray-900:hover {
+  --tw-text-opacity: 1;
+  color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
 .hover\:opacity-50:hover {
